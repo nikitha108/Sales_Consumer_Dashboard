@@ -40,10 +40,10 @@ I brought everything together by creating a flexible container layout that can a
 ## Results
 
 ### Sales Dashboard
-![](<Sales Dashboard.png>)
+![alt text](<images/Sales Dashboard.png>)
 
 ### Customer Dashboard
-![](<Customer Dashboard.png>)
+![alt text](<images/Customer Dashboard.png>)
 
 ## Resources
 ## Published Dashboard
